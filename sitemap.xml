@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jy.sudachi.top/GitHub-Trending-open-swe/</loc>
+    
+    <lastmod>2026-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jy.sudachi.top/GitHub-Trending-claude-subconscious/</loc>
+    
+    <lastmod>2026-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jy.sudachi.top/GitHub-Trending-RuView/</loc>
     
     <lastmod>2026-03-26</lastmod>
@@ -247,7 +265,7 @@
 
   <url>
     <loc>https://jy.sudachi.top/</loc>
-    <lastmod>2026-03-26</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
